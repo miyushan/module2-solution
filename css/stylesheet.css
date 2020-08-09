@@ -19,7 +19,7 @@ h1{
 }
 .topic1,.topic2,.topic3{
 	font-size: 125%;
-	font-style: Arial;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	float: right;
 	width: 150px;
 	height: 40px;
