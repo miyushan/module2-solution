@@ -11,7 +11,7 @@ body{
 
 
 h1{
-	font-family: "M PLUS Rounded 1c";
+	font-family: "Arial";
 	font-weight: bold;
 	text-align: center;
 	font-size: 175%;
@@ -19,7 +19,7 @@ h1{
 }
 .topic1,.topic2,.topic3{
 	font-size: 125%;
-	font-family: "M PLUS Rounded 1c";
+	font-family: "Arial";
 	font-weight: bold;
 	float: right;
 	width: 150px;
